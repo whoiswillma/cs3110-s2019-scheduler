@@ -1,0 +1,20 @@
+{
+  "courses": [
+    {
+      "name": "CS 1110",
+      "required": true
+    },
+    {
+      "name": "CS 2800",
+      "priority": 10
+    },
+    {
+      "name": "CS 4820",
+      "required": true
+    },
+    {
+      "name": "MATH 2210",
+      "priority": 5
+    }
+  ]
+}

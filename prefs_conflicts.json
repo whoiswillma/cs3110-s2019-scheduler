@@ -1,0 +1,44 @@
+{
+  "courses": [
+    {
+      "name": "CS 1110",
+      "required": true
+    },
+    {
+      "name": "CS 4820",
+      "required": true
+    },
+    {
+      "name": "CS 2800",
+      "priority": 10
+    },
+    {
+      "name": "MATH 2210",
+      "priority": 9
+    },
+    {
+      "name": "MATH 2220",
+      "priority": 8
+    },
+    {
+      "name": "MATH 2230",
+      "priority": 7
+    },
+    {
+      "name": "MATH 1910",
+      "priority": 6
+    },
+    {
+      "name": "MATH 1920",
+      "priority": 5
+    },
+    {
+      "name": "MATH 3110",
+      "priority": 4
+    },
+    {
+      "name": "MATH 3210",
+      "priority": 3
+    }
+  ]
+}
